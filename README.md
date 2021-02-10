@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ken0001&repo=ML-DenseNet&theme=tokyonight)](https://github.com/Ken0001/ML-DenseNet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ken0001&repo=Plant-Disease-Recognition&theme=tokyonight)](https://github.com/Ken0001/Plant-Disease-Recognition)
+
 
