@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ken0001&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ken0001&repo=ML-DenseNet&theme=tokyonight)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ken0001&repo=ML-DenseNet&theme=tokyonight)](https://github.com/Ken0001/ML-DenseNet)
 
