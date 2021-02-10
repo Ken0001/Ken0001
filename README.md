@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Ken's github stats](https://github-readme-stats.vercel.app/api?username=Ken0001&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ken0001&layout=compact&theme=tokyonight&hide=Jupyter\ Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ken0001&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ken0001&repo=ML-DenseNet)](https://github.com/Ken0001/ML-DenseNet)
